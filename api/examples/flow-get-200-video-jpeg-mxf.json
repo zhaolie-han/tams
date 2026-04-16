@@ -10,8 +10,7 @@
     "format": "urn:x-nmos:format:video",
     "created_by": "tams-dev",
     "updated_by": "tams-dev",
-    "tags":
-    {
+    "tags": {
         "input_quality": "intermediate"
     },
     "codec": "video/jp2",
