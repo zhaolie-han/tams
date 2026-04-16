@@ -38,8 +38,7 @@
         "component_type": "YCbCr",
         "vert_chroma_subs": 2,
         "horiz_chroma_subs": 2,
-        "avc_parameters":
-        {
+        "avc_parameters": {
             "profile": 100,
             "level": 31,
             "flags": 0
