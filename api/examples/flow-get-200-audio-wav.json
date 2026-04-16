@@ -16,7 +16,7 @@
     "codec": "audio/x-raw-int",
     "container": "audio/wav",
     "avg_bit_rate": 192,
-       "essence_parameters": {
+    "essence_parameters": {
         "sample_rate": 48000,
         "channels": 2,
         "bit_depth": 16,
