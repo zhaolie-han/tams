@@ -27,8 +27,7 @@
         "interlace_mode": "progressive",
         "colorspace": "BT709",
         "transfer_characteristic": "SDR",
-        "aspect_ratio":
-        {
+        "aspect_ratio": {
             "numerator": 16,
             "denominator": 9
         },
