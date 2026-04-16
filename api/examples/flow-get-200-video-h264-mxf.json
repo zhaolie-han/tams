@@ -16,10 +16,8 @@
     "codec": "video/h264",
     "container": "application/mxf",
     "avg_bit_rate": 6000,
-    "essence_parameters":
-    {
-        "frame_rate":
-        {
+    "essence_parameters": {
+        "frame_rate": {
             "numerator": 50,
             "denominator": 1
         },
