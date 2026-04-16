@@ -2165,7 +2165,7 @@ paths:
                     $ref: examples/flow-storage-post-201.json
                 wav_proxy:
                   summary: WAV Flow
-                  description: Flow using WAV as the container format, writing to an HTTP interfacerunning on the same origin as the TAMS API
+                  description: Flow using WAV as the container format, writing to an HTTP interface running on the same origin as the TAMS API
                   value:
                     $ref: examples/flow-storage-post-201-wav.json
         "400":
