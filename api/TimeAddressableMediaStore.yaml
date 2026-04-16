@@ -1059,6 +1059,10 @@ paths:
                   summary: Video Flow - H.264 (MXF container)
                   value:
                     $ref: examples/flow-get-200-video-h264-mxf.json
+                jp2_jpeg2k_singleframe:
+                  summary: Video Flow - JPEG-2000 (JP2 container, single frame segments)
+                  value:
+                    $ref: examples/flow-get-200-video-jpeg-jp2.json
                 video_vfr:
                   summary: Video Flow - H.264 Codec, Variable Frame Rate
                   value:
